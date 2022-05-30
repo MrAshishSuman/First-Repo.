@@ -1,3 +1,2 @@
 # G32_SCM
-# First repo .......
 Learning to work with remote repositories
